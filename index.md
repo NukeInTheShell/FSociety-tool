@@ -18,4 +18,4 @@ cd FSociety-tool
 sudo bash setup.sh
 
 python3 fsociety.py
-'''
+```
