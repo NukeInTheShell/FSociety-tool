@@ -2,16 +2,22 @@
 
 You can download the tool [here](https://github.com/NukeInTheShell/FSociety-tool/).
 
-### Markdown
+### Download
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
-Syntax highlighted code block
+apt updade && apt upgrade
 
-# Header 1
-## Header 2
-### Header 3
+sudo apt install git
+
+git clone https://github.com/NukeInTheShell/FSociety-tool/
+
+cd FSociety-tool
+
+pip isntall -r requirments.txt
+
+python3 fsociety.py
 
 - Bulleted
 - List
