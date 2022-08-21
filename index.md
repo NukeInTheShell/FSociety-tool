@@ -17,13 +17,9 @@ cd FSociety-tool
 
 pip isntall -r requirments.txt
 
+sudo bash setup.sh
+
 python3 fsociety.py
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
