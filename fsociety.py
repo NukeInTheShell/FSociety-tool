@@ -15,7 +15,7 @@ def menu():
     # ascii_banner = pyfiglet.figlet_format("FSociety")
     # print(ascii_banner)
     Fsociety="FSociety@localhost $"
-    # print("\033[5mCoded By NukeInTheShell\033[0m")
+    print("\033[5mCoded By NukeInTheShell\033[0m")
 
     
 
